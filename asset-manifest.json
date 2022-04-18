@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/drakarisbelen/react-example-git/static/css/main.073c9b0a.css",
+    "main.js": "/drakarisbelen/react-example-git/static/js/main.50c02868.js",
+    "static/js/787.aff05db8.chunk.js": "/drakarisbelen/react-example-git/static/js/787.aff05db8.chunk.js",
+    "static/media/lisa.png": "/drakarisbelen/react-example-git/static/media/lisa.e0da8ac97d5b06b7b5cb.png",
+    "index.html": "/drakarisbelen/react-example-git/index.html",
+    "main.073c9b0a.css.map": "/drakarisbelen/react-example-git/static/css/main.073c9b0a.css.map",
+    "main.50c02868.js.map": "/drakarisbelen/react-example-git/static/js/main.50c02868.js.map",
+    "787.aff05db8.chunk.js.map": "/drakarisbelen/react-example-git/static/js/787.aff05db8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.50c02868.js"
+  ]
+}
